@@ -4,29 +4,11 @@
 
 Welcome to my GitHub! I'm a passionate **Mechatronics Engineer** with a strong focus on **Robotics**, **AI**, and **Machine Learning**. I thrive on building innovative solutions that bridge the gap between hardware and software, particularly in safety-critical environments like the automotive and energy sectors.
 
-## 🚀 Skills & Expertise
-- **Programming Languages:** Python, C++, Java, MATLAB
-- **Tools & Technologies:** 
-  - AI/ML & Robotics: MLFlow, Azure Machine Learning, OpenCV, TensorFlow, HuggingFace, ROS2
-  - DevOps: Azure DevOps, Terraform, Docker, Kubernetes, CI/CD
-  - Databases: SQL, MongoDB
-  - Others: SolidWorks, Creo, Jira, GitHub, DOORS
-
-- **Architectural Experience:**
-  - Layered Architecture, Microservices, Event-Driven Systems
-  - Real-time State Management, Distributed Systems
-
-## 🌟 Certifications
-- **Microsoft Azure Data Scientist Associate (DP-100)**
-- **MLOps Specialization | Duke University**
-- **PSPO I Product Owner | Scrum.org**
-- **Django Web Framework | META**
-- **ISTQB Certified Tester (CTFL)**
-
-
 ## 💡 Projects
 - **Improving Injection Molding with ML & IoT Automation:** Led a team to deploy a real-time data processing pipeline using Node-RED and IoT actuators.
 - **Machine Learning for Door System Classification:** Developed and deployed ML models for car door system analysis.
+- **In-Car Personalization Middleware**: Led a product development team for a real-time data synchronization service between in-car systems and cloud platforms.
+- **AI-Driven Recommender System**: Spearheaded the design and development of a machine learning-based recommender system utilizing Generative AI and Large Language Models (LLMs) to automate and optimize public sector project acquisition workflows.
 
 ## 🎓 Education
 - **B.Eng. in Mechatronics** from THWS, Schweinfurt (2018-2022)
