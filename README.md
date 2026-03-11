@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Rohan Chakraborty
 
-Welcome to my GitHub! I'm a passionate **Mechatronics Engineer** with a strong focus on **Robotics**, **AI**, and **Machine Learning**. I thrive on building innovative solutions that bridge the gap between hardware and software, particularly in safety-critical environments like the automotive and energy sectors.
+Welcome to my GitHub! I'm a passionate Engineer with focus on **Robotics**, **AI**, and **Machine Learning**. I thrive on building innovative solutions that bridge the gap between hardware and software, particularly in safety-critical environments like the automotive and energy sectors.
 
 ## 💡 Projects
 - **Improving Injection Molding with ML & IoT Automation:** Led a team to deploy a real-time data processing pipeline using Node-RED and IoT actuators.
